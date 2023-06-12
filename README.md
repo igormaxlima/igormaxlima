@@ -1,33 +1,38 @@
 ###
 #  Igor Max
-> Estudante de Engenharia de Software  
+> Software Engineer Student  
 
 
 ## Hello, Devs! :grin:
-- Me chamo Igor, tenho 18 anos, moro em Brasilia-DF e estou iniciando nesse graande universo da programação! Embora seja dificil, nada que muitos litros de café não resolva! :coffee:
+- My name's Igor and I'm diving into this vast world of programming! Although it can be challenging, nothing that a few liters of coffee can't solve! :coffee:
 <p align="center">
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="350"/>
 </p>
 
 
- <p>:mag_right: Estou em busca da minha primeira oportunidade de trabalho;</p>
- <p> :star: Sempre querendo aprender coisas novas;</p>
- <p> :busts_in_silhouette: Bom em trabalho em equipes; </p>
- <p> :sunglasses: Sou a peça que falta para sua empresa;</p>
+ <p>:mag_right: I'm looking for my first job opportunity;</p>
+ <p> :star: Love learning new things;</p>
+ <p> :busts_in_silhouette: Great at working in teams;</p>
+ <p> :sunglasses: I'm the missing piece for your company;</p>
  
  
 
-## :books: Estou aprendendo: 
+## :books: I'm currently learning: 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" /> `Java`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" /> `PostgreSQL`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/> `MongoDB`
+          
           
 
-## :computer: Tecnologias e Ferramentas:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" /> 
+## :computer: Technologies and Tools:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
+          
+          
  
  
                    
 #     
-:speech_balloon: Você pode entrar em contato comigo pelo meu [Instagram](https://www.instagram.com/igormax7/) ou pelo meu [Email](igormaxnunes@gmail.com), e fique à vontade para dar uma olhada nos meus projetos disponíveis aqui nos repositórios.
+:speech_balloon: You can contact me through my [Instagram](https://www.instagram.com/igormax7/) or [Email](igormaxnunes@gmail.com), and you're welcome to check out my projects available in my repositories.
 
 <div align="center">
    <a href="https://www.instagram.com/igormax7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
